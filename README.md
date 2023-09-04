@@ -1,2 +1,2 @@
 # gameon-levelup
-projeto de estudo uma página de vendas.
+projeto de estudo de uma página de vendas.
